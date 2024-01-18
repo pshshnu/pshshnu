@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pshshnu
+- 👀 I’m interested in simplicity
+- 🌱 I’m currently learning versioned documentation 
+- 💞️ I’m looking to collaborate on readability standards & linters that reduce cognitave complexity without losing sophistocation
